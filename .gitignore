@@ -1,9 +1,4 @@
 movie-corpus
+save
 
-save/model/formatted_movie_lines/1-1_128/500_backup_bidir_model.tar
-save/model/formatted_movie_lines/1-1_128/1000_backup_bidir_model.tar
-
-save/training_data/pairs.tar
-save/training_data/voc.tar
-save/training_data/formatted_movie_lines/1000_training_batches_32.tar
 
